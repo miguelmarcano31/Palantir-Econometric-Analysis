@@ -24,7 +24,7 @@ This project delivers a comprehensive econometric study on **Palantir Technologi
 
 ## 📁 Repository Structure
 - `TRABAJO ECONOMETRÍA PALANTIR DEF.pdf`: Complete academic research report containing empirical results, charts, and financial analysis.
-- `script_palantir.R`: Source code in R for data preparation, model estimation, diagnostic checking, and IRF plots.
+
 
 ---
 
